@@ -21,6 +21,7 @@ SocialMediaAnalytics.pbix  https://github.com/divyaprakash9243/Social-Media-Anal
 3. View and interact with the dashboard filters and visuals
 # 📷 Dashboard Preview
 https://github.com/divyaprakash9243/Social-Media-Analytics/blob/main/SOCIAL%20MEDIA%20ANALYSIS.PNG <br/>
+![SOCIAL MEDIA ANALYSIS](https://github.com/user-attachments/assets/cf9a9be5-22e8-4ec3-906d-d42290a7febf)
 # 👤 Author
 Divya Prakash S 
 www.linkedin.com/in/divya-prakash-21b64826a <br/>
