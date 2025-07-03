@@ -15,6 +15,8 @@ This project presents an interactive Power BI dashboard to analyze key social me
 1. Download or clone the repository
 2. Open the `.pbix` https://github.com/divyaprakash9243/Social-Media-Analytics/blob/main/Social%20media%20analytics.pbix <br/>
 3. View and interact with the dashboard filters and visuals
+# 📷 Dashboard Preview
+
 
 
 
